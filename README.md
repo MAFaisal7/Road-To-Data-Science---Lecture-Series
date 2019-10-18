@@ -2,6 +2,8 @@
 Road To Data Science - Lectures &amp; Codes By MA Faisal
 ********Course Components:*********
 
+********Course Components:*********
+
 Data Analysis with Python
 Stats with R
 SQL 
@@ -26,3 +28,4 @@ Class 12: Machine Learning Classifciation
 Class 13: Machine Learning Clustering
 
 Class 14: Game Theory (Economics)
+
