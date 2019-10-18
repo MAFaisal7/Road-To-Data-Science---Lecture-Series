@@ -1,0 +1,26 @@
+Descriptive Stats:
+
+Measure of central tendency
+measure of spread
+normal distrubtion and uses
+
+Inferential Statstics:
+
+central limit theorm 
+Hypothesis testing and confidence interval using normal distribition
+. using T-distribution
+. using bi-nomial distribution
+. Using Poision 
+. Chi-square (test of indepdndence)
+
+Regression Analysis
+Linear
+Multiple
+Interpreting the out of regression
+Inference of regression using p- values and confidence intervals
+
+Problems solving with regression
+.Detecting partial relationships (Simpsons Paradox)
+.Varience Inflation factors (VIF)
+.Influence measures (Cook's Distance, DF fits)
+.Multi-Colinearity
