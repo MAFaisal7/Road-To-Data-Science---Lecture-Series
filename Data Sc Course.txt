@@ -1,0 +1,26 @@
+********Course Components:*********
+
+Data Analysis with Python
+Stats with R
+SQL 
+Linear Algebra
+Machine Learning
+Model evaluvation
+
+******CLASS TOPICS************
+Class 1: Intro to Python / Stats: Intro To R (Swirl Library)
+Class 2: Univariate Analysis
+Class 3: Multivariate Analysis
+Class 4: Data Wrangling
+Class 5: Data Visualization
+Class 5: SQL Pt 1 
+Class 6: SQL Pt 2
+Class 7: Data Visualization Tableau 1
+Class 8: Data Visualization Tableau 2
+Class 9: Linear Algebra & Regression Analysis
+Class 10: Machine Learning PCA
+Class 11: Machine Learning Regression
+Class 12: Machine Learning Classifciation 
+Class 13: Machine Learning Clustering
+
+Class 14: Game Theory (Economics)
